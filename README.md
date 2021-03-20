@@ -4,7 +4,7 @@
 <h3>Steps to Run</h3>
 <ul>
   <li>Clone this repo</li>
-  <li>In <i>Model/WeatherManager.shift</i> update with your API key</li>
+  <li>In <i>Model/WeatherManager.shift</i> update with your API key (Get your API key from here https://openweathermap.org/api)</li>
   <li>Choose any simulator, & you are ready to go.</li>
 </ul>
 
